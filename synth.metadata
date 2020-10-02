@@ -4,7 +4,7 @@
       "git": {
         "name": ".",
         "remote": "https://github.com/googleapis/java-pubsublite.git",
-        "sha": "d4dc0b54e69fa9a19eaa1a8151129b9ff3d285ac"
+        "sha": "8bf29f8db1fea7fbcd15571ade985d901b2ad16b"
       }
     },
     {
@@ -89,7 +89,6 @@
     "CODE_OF_CONDUCT.md",
     "CONTRIBUTING.md",
     "LICENSE",
-    "README.md",
     "codecov.yaml",
     "google-cloud-pubsublite/src/main/java/com/google/cloud/pubsublite/v1/AdminServiceClient.java",
     "google-cloud-pubsublite/src/main/java/com/google/cloud/pubsublite/v1/AdminServiceSettings.java",
@@ -128,6 +127,12 @@
     "google-cloud-pubsublite/src/main/java/com/google/cloud/pubsublite/v1/stub/SubscriberServiceStubSettings.java",
     "google-cloud-pubsublite/src/main/java/com/google/cloud/pubsublite/v1/stub/TopicStatsServiceStub.java",
     "google-cloud-pubsublite/src/main/java/com/google/cloud/pubsublite/v1/stub/TopicStatsServiceStubSettings.java",
+    "google-cloud-pubsublite/src/test/java/com/google/cloud/pubsublite/cloudpubsub/PublisherSettingsTest.java",
+    "google-cloud-pubsublite/src/test/java/com/google/cloud/pubsublite/cloudpubsub/internal/AckSetTrackerImplTest.java",
+    "google-cloud-pubsublite/src/test/java/com/google/cloud/pubsublite/cloudpubsub/internal/SinglePartitionSubscriberTest.java",
+    "google-cloud-pubsublite/src/test/java/com/google/cloud/pubsublite/cloudpubsub/internal/WrappingPublisherTest.java",
+    "google-cloud-pubsublite/src/test/java/com/google/cloud/pubsublite/internal/wire/RoutingPublisherTest.java",
+    "google-cloud-pubsublite/src/test/java/com/google/cloud/pubsublite/internal/wire/SinglePartitionPublisherTest.java",
     "google-cloud-pubsublite/src/test/java/com/google/cloud/pubsublite/v1/AdminServiceClientTest.java",
     "google-cloud-pubsublite/src/test/java/com/google/cloud/pubsublite/v1/CursorServiceClientTest.java",
     "google-cloud-pubsublite/src/test/java/com/google/cloud/pubsublite/v1/MockAdminService.java",
