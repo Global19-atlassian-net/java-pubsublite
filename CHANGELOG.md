@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.5.0](https://www.github.com/googleapis/java-pubsublite/compare/v0.4.1...v0.5.0) (2020-10-03)
+
+
+### Features
+
+* Add pubsublite-kafka-shim directory and disable deployment ([#273](https://www.github.com/googleapis/java-pubsublite/issues/273)) ([8bf29f8](https://www.github.com/googleapis/java-pubsublite/commit/8bf29f8db1fea7fbcd15571ade985d901b2ad16b))
+
+
+### Dependencies
+
+* Move common dependencies into parent dependency management section ([#275](https://www.github.com/googleapis/java-pubsublite/issues/275)) ([d72bea8](https://www.github.com/googleapis/java-pubsublite/commit/d72bea8f85367a59d3b228ca795bef83a5a154da))
+
 ### [0.4.1](https://www.github.com/googleapis/java-pubsublite/compare/v0.4.0...v0.4.1) (2020-09-28)
 
 
